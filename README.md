@@ -1,15 +1,4 @@
----
 
-# Part 3: Merging Changes
-
-After both **Tom** and **Jerry** have pushed their changes, a team member (like you) can review and merge these changes into the main project. This process involves:
-
-- Creating a Pull Request (PR) for Tom's changes.
-- Synchronizing Jerry's branch with the latest changes from the `main` branch.
-- Merging Jerry's PR into the main branch.
-- Confirming the merge through GitHub with screenshots of all actions.
-
----
 
 ## 🧠 Understanding Pull Requests
 
