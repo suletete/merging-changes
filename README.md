@@ -37,7 +37,7 @@ Open your browser and go to the **GitHub page** of the repository.
 Click the branch dropdown menu and select the branch Tom worked on — `update-navigation`.
 
 📸 Screenshot:  
-![Tom Branch](https://drive.google.com/uc?id=1WMOEoJCFFe_ow1fwBHuqsCzvKjhBd3sb)
+![Tom Branch](PR-1.png)
 
 ---
 
