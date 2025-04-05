@@ -1,8 +1,3 @@
-Sure! Here's your updated **Part 3: Merging Changes** write-up, now with your **Google Drive screenshots embedded** as image links:
-
----
-
-```markdown
 # Part 3: Merging Changes
 
 After both **Tom** and **Jerry** have pushed their changes, a team member (like you) can review and merge these changes into the main project. The process involves:
@@ -37,7 +32,8 @@ Open your browser and go to the **GitHub page** of the repository.
 Click the branch dropdown menu and select the branch Tom worked on — `update-navigation`.
 
 📸 Screenshot:  
-![Tom Branch](PR-1.png)
+![Switching to Tom’s Branch](PR-1.png)  
+<img src="./PR-1.png" alt="Switching to Tom’s Branch" width="600"/>
 
 ---
 
@@ -46,7 +42,8 @@ Click the branch dropdown menu and select the branch Tom worked on — `update-n
 Click the **"New pull request"** button.
 
 📸 Screenshot:  
-![Creating Pull Request](https://drive.google.com/uc?id=1Mozv1vDlSad2VP9LijzvH8M-r9UwzX4M)
+![Creating Pull Request](PR-2.png)  
+<img src="./PR-2.png" alt="Creating Pull Request" width="600"/>
 
 GitHub will auto-select:
 - **Base branch** → `main`
@@ -68,7 +65,8 @@ If everything looks good:
 - Provide a **title** and **description** explaining the purpose of the PR
 
 📸 Screenshot of PR Opened:  
-![Open PR](https://drive.google.com/uc?id=1Q256MqqfyI8Z9FrzurTIP-djQzjTArmL)
+![Open PR](PR-3.png)  
+<img src="./PR-3.png" alt="Open Pull Request" width="600"/>
 
 ---
 
@@ -93,47 +91,3 @@ git checkout add-contact-info
 
 # Pull latest changes from main
 git pull origin main
-```
-
-✅ This ensures Jerry’s branch includes Tom’s changes, avoiding merge conflicts.
-
----
-
-## 🚀 Finalizing Jerry’s Contribution
-
-### Push Updated Branch
-
-```bash
-git push origin add-contact-info
-```
-
-This uploads Jerry’s branch with all updates to GitHub.
-
----
-
-### Create & Merge Pull Request for Jerry
-
-Now repeat the PR steps for Jerry:
-
-1. Create PR from `add-contact-info` to `main`
-2. Review, approve, and **merge**
-
----
-
-## 📌 Summary
-
-This workflow demonstrates GitHub’s collaborative features:
-
-- Branching for feature development
-- Pull Requests for review and integration
-- Merging to keep `main` stable and updated
-- Updating branches to avoid conflicts
-
-✅ With screenshots and repository actions, this meets the instructor’s practical evidence requirements.
-
----
-```
-
----
-
-Let me know if you want this exported as a PDF, Markdown file, or added with Jerry's own screenshots if you have those too!
