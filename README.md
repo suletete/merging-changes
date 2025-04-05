@@ -142,7 +142,7 @@ Once Jerry’s PR is created, team members can review, comment, and approve it.
 
 📸 Screenshot of Merging Jerry's Pull Request:  
 ![Merge Jerry's Pull Request](PR-3.png)  
-<img src="./PR-Jerry-4.png" alt="Merge Jerry's Pull Request" width="600"/>
+
 
 ---
 
